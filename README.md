@@ -1,4 +1,6 @@
-# voice-assistant-python-
+# voice-assistant-python
 
 Using python to code a simple voice assistant, mimic Siri, Amazon Alexa, etc...
+Need first install speech_recognition, gtts, wikipedia, random and datetime
 
+After run this file, you have to talk with computer, such as "hi, computer" to activate it, and then ask some basic questions such as "what date is it today", "who is Jackie Chan", "how to cook" ...
